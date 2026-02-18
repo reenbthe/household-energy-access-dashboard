@@ -1,6 +1,3 @@
-![Dashboard Preview](dashboard-preview.PNG)
-
-
 Household Energy Access and Clean Cooking Transition Analysis
 
 Project Overview
